@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToastsDialogsNotificationExercise</string>
+    <string name="app_name_short">AmazingApp</string>
+    <string name="action_quit">Quit</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+    <string name="dialog_nowhere">Nowhere, because noone cares</string>
+    <string name="dialog_everyhere">Everywhere!!!!!</string>
+</resources>
